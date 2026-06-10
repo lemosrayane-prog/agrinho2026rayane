@@ -30,7 +30,4 @@ O projeto combina design moderno, boa experiência do usuário e conteúdo educa
 - **Font Awesome** - Ícones profissionais
 
 ## 🚀 Como Executar
-
-1. Clone o repositório:
-```bash
 https://github.com/lemosrayane-prog/agrinho2026rayane.git
